@@ -1,0 +1,102 @@
+2026-01-13 15:00:03,452 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:00:13,509 - PFE_System - INFO - Simulation de transcription : c'est quoi mon nom 
+2026-01-13 15:00:13,588 - PFE_System - ERROR - Erreur lors de la simulation: N8N Request Failed: 404 Client Error: Not Found for url: http://localhost:5678/webhook/6f7a28c9-7122-4efe-87ee-0838b20ee4ab/chat
+2026-01-13 15:05:28,353 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:05:42,458 - PFE_System - INFO - Simulation de transcription : hello how are you 
+2026-01-13 15:05:42,490 - PFE_System - ERROR - Erreur lors de la simulation: N8N Request Failed: 404 Client Error: Not Found for url: http://localhost:5678/webhook-test/53fed65c-8a41-48da-ad47-b8649e7df126
+2026-01-13 15:06:19,985 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:06:25,199 - PFE_System - INFO - Simulation de transcription : helloo 
+2026-01-13 15:06:25,332 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:13:09,285 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:13:12,049 - PFE_System - INFO - Simulation de transcription : hellooooo
+2026-01-13 15:13:12,080 - PFE_System - ERROR - Erreur lors de la simulation: N8N Request Failed: 404 Client Error: Not Found for url: http://localhost:5678/webhook-test/53fed65c-8a41-48da-ad47-b8649e7df126
+2026-01-13 15:13:23,768 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:13:26,453 - PFE_System - INFO - Simulation de transcription : helloo 
+2026-01-13 15:13:26,517 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:18:27,264 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:18:30,018 - PFE_System - INFO - Simulation de transcription : aslemaa
+2026-01-13 15:18:30,078 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:22:01,757 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:22:06,174 - PFE_System - INFO - Simulation de transcription : aslemaa
+2026-01-13 15:22:06,253 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:24:21,348 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:24:24,625 - PFE_System - INFO - Simulation de transcription : aslemaa
+2026-01-13 15:24:24,718 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:25:08,318 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:25:10,110 - PFE_System - INFO - Simulation de transcription : hello 
+2026-01-13 15:25:10,201 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:26:14,578 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:26:17,913 - PFE_System - INFO - Simulation de transcription : aslemaa
+2026-01-13 15:26:18,004 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:28:43,574 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:28:45,980 - PFE_System - INFO - Simulation de transcription : hello 
+2026-01-13 15:28:46,072 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:32:16,659 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:32:19,538 - PFE_System - INFO - Simulation de transcription : hello 
+2026-01-13 15:32:19,618 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:33:04,385 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:33:06,063 - PFE_System - INFO - Simulation de transcription : hello 
+2026-01-13 15:33:06,154 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:33:46,683 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:33:50,583 - PFE_System - INFO - Simulation de transcription : what is my name
+2026-01-13 15:33:50,675 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:36:10,833 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:36:16,980 - PFE_System - INFO - Simulation de transcription : what is my name
+2026-01-13 15:36:17,066 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:38:03,255 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:38:10,029 - PFE_System - INFO - Simulation de transcription : je m'appelle quoi 
+2026-01-13 15:38:10,158 - PFE_System - ERROR - Erreur lors de la simulation: N8N Request Failed: 500 Server Error: Internal Server Error for url: http://localhost:5678/webhook-test/53fed65c-8a41-48da-ad47-b8649e7df126
+2026-01-13 15:40:13,369 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:40:15,253 - PFE_System - INFO - Simulation de transcription : hello
+2026-01-13 15:40:15,327 - PFE_System - ERROR - Erreur lors de la simulation: N8N Request Failed: 500 Server Error: Internal Server Error for url: http://localhost:5678/webhook-test/53fed65c-8a41-48da-ad47-b8649e7df126
+2026-01-13 15:42:50,961 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:42:56,395 - PFE_System - INFO - Simulation de transcription : what is my name
+2026-01-13 15:43:05,233 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:47:03,360 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:47:25,569 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:47:25,632 - comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+2026-01-13 15:47:25,633 - comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 15:47:25,633 - comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen\__init__.py'
+2026-01-13 15:47:25,637 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 15:47:25,689 - comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+2026-01-13 15:47:25,692 - comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+2026-01-13 15:47:25,797 - comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+2026-01-13 15:47:25,809 - comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+2026-01-13 15:47:25,810 - comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+2026-01-13 15:47:25,818 - comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+2026-01-13 15:47:48,326 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:48:02,862 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:48:02,926 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\l\\PycharmProjects\\PFE\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 15:48:02,926 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 15:57:54,454 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 15:58:05,472 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 15:58:05,534 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\l\\PycharmProjects\\PFE\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 15:58:05,534 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 16:07:24,373 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 16:07:39,477 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 16:07:39,508 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\l\\PycharmProjects\\PFE\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 16:07:39,509 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-13 16:50:03,715 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-13 16:50:29,799 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-13 16:50:29,898 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\l\\PycharmProjects\\PFE\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-13 16:50:29,899 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-16 17:08:14,207 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-16 17:08:31,424 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-16 17:08:31,528 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\l\\PycharmProjects\\PFE\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-16 17:08:31,529 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-16 17:10:07,127 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-16 17:10:45,985 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-16 17:10:46,052 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\l\\PycharmProjects\\PFE\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-16 17:10:46,052 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-16 17:25:23,588 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-16 17:25:30,794 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-16 17:25:30,859 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\l\\PycharmProjects\\PFE\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-16 17:25:30,859 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-16 17:28:30,654 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-16 17:28:44,639 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-16 17:28:44,675 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\l\\PycharmProjects\\PFE\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-16 17:28:44,675 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
+2026-01-16 17:31:31,318 - PFE_System - INFO - --- Démarrage du pipeline ---
+2026-01-16 17:31:45,440 - PFE_System - INFO - --- Pipeline terminé avec succès ---
+2026-01-16 17:31:45,503 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\l\\PycharmProjects\\PFE\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-16 17:31:45,503 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\l\PycharmProjects\PFE\.venv\Lib\site-packages\comtypes\gen'
